@@ -1,0 +1,5 @@
+,product_id,product_name,product_quantity,product_manf_date,product_amount,made_in,availability
+0,101,Laptop,10,05-jun-2025,30052,india,0.0
+1,103,Tab,12,07-feb-2025,8624,india,
+2,105,Tv,30,02-sep-2025,30828,india,1.0
+3,100,Mobile,20,01-jan-2025,14488,UK,
